@@ -1,7 +1,7 @@
 KityMinder Editor
 =================
 
---> [Chinese version](README.zh.md)
+--> [Chinese version](README-zh.md)
 
 ## Introduction
 
